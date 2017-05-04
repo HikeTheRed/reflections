@@ -3,6 +3,9 @@ Initialization creates the metadata directory that enables git to track changes.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area marks items you with to add to the repository.  It's value is 
+being able to have some but not all of the contents of the containing directory 
+tracked in the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
