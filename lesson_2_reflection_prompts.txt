@@ -9,14 +9,24 @@ tracked in the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+The option to have multiple files in the staging area enables all of the file 
+changed required for a logical commit to be made before making the commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches enable changes aligned to a single goal to be made and recorded.  Multiple 
+branches enable multiple, simultaneous goals to be pursued.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams distinctly show individual branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The two branches converge to a single branch.  The tip of this newly merged 
+branch has two parents,
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Automated only works on the merges in which is can be easily determined how to 
+perform the merge.  The automated merge feature will not mess up merges that 
+require human intervention.
