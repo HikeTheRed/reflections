@@ -31,4 +31,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Separate branches let me use pull requests with collaborators.  They also 
+    allow me to experiment with new features or architectures while keeping a 
+    known, working branch.
