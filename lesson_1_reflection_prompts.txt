@@ -38,4 +38,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
     particular versions so that I can pass them to others for their download 
     and use. 
     
-    a test modification. part 2.
+    a test modification. part 3.
